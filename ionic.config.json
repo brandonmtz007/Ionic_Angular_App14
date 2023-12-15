@@ -1,0 +1,7 @@
+{
+  "name": "ventanasmodelsreto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
